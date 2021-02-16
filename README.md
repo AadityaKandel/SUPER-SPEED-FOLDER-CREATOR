@@ -9,7 +9,7 @@ This app is made by using python. This can create 100 THOUSAND FOLDERS PER 20 To
 3: NOW GIVE NUMBERS OF FOLDERS TO CREATE                                                                
 
 4: JUST PLACE YOUR MOUSE ON [ BUTTON ] AND IT WILL AUTOMATICALLY DETECT YOUR MOUSE AND CREATES FOLDER   
-   WAIT FOR SOMETIME [ IF U WILL CLICK ON BUTTON THEN APP WILL NOT RESPOND ]                                   
+   WAIT FOR SOMETIME [ Don't CLICK ON BUTTON ]                                   
 
 5: AFTER WORKS DONE YOU CAN REMOVE YOUR MOUSE FROM [ BUTTON ] LOCATION                                  
 
