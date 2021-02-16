@@ -9,9 +9,9 @@ root.minsize(590,500)
 root.maxsize(590,500)
 
 def createfolders(from_how_many,to_how_much):
+	b1.config(text="PLEASE WAIT...")
 	for i in range(from_how_many,to_how_much):
 		root.update()
-		b1.config(text="PLEASE WAIT...")
 		try:
 			os.mkdir(f'{i}')
 		except:
@@ -22,9 +22,9 @@ def createfolders(from_how_many,to_how_much):
 		pass
 
 def deletefolders(from_how_many,to_how_much):
+	b1.config(text="PLEASE WAIT...")
 	for i in range(from_how_many,to_how_much):
 		root.update()
-		b1.config(text="PLEASE WAIT...")
 		try:
 			os.rmdir(f'{i}')
 		except:
